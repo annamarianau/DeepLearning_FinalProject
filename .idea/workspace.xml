@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c67dae92-1c7a-4e8a-ab6a-c5899b03dbf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Code/preprocess_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/get_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects" beforeDir="false" afterPath="$PROJECT_DIR$/Projects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Active Shapes Model/Active_Shapes_Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Active Shapes Model/Python files/PreProcessed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Active Shapes Model/Python files/active_shapes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Active Shapes Model/Python files/align.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Active Shapes Model/Python files/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Active Shapes Model/Python files/initialization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Active Shapes Model/Python files/shapes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/AtlasConstruction.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/Dice_metric.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/EM_Probability.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/atlas_tissue_models.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/baysian_framework.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/AffineRegistrationComparison.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/AffineRegistrationComparison_improved.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/BSplineDeformations_comparison.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/BSplineDeformations_comparison_improved.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/CSF_boxplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/GM_boxplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/MNI_CSF_boxplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/MNI_GM_boxplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/MNI_WM_boxplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/Small_CSF_boxplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/Small_GM_boxplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/Small_WM_boxplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/WM_boxplot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/average_label1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/average_label1_115.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/average_label2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/average_label2_132.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/average_label2_147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/average_label2_173.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/average_label3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/average_label3_136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/average_label3_149.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/average_label3_171.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/template_label1_3views.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/template_label2_3views.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/template_label3_3views.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/template_slices.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/template_slices_129.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/template_slices_142.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/template_slices_167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/template_slices_2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/tissue_model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/tissue_model_filtered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/images/tissue_model_scaled_filtered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/rescale_img.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/Matlab code/tissue_model.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Atlas-based Expectation Maximization/report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Brain Tissue Sigmentation using NeuroNet (ICIEV 2019)/Brain_Tissue_Segmentation_Using_NeuroNet_WithDifferent_Pre_processing_Techniques.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Breast Mass Detection Using Transfer Learning in Java/Data preprocessing CPP code/functions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Breast Mass Detection Using Transfer Learning in Java/Data preprocessing CPP code/functions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Breast Mass Detection Using Transfer Learning in Java/Data preprocessing CPP code/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Breast Mass Detection Using Transfer Learning in Java/Java-Presentation.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Breast Mass Detection Using Transfer Learning in Java/report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Computer Aided Diagnosis Lecture Activity/CADx in Lung Cancer.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/CLR.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/Presentation.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/IEEEtran.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/architecture_cnn2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/block diagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/init_iter_vs_accuracy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/init_iter_vs_lr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/init_lr_vs_accuracy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/init_training_roc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/it_lr_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/it_lr_triang2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/it_lr_triangular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/parameters_achitec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range1/LR_ACC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range1/it_acc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range1/it_lr_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range1/roc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range1/roc_exp_test1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range2/it_acc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range2/it_lr_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range2/lr_acc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range2/roc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range2/roc_exp_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range3/it_acc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range3/it_lr_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range3/lr_acc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range3/roc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/exp_range3/roc_exp_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular1/it_acc_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular1/it_lr_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular1/lr_acc_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular1/roc_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular1/roc_triang_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular2/it_acc_triang2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular2/it_lr_triang2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular2/lr_acc_triang2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular2/roc_triang2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular2/roc_triang_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular3/it_acc_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular3/it_lr_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular3/lr_acc_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular3/roc_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew16/triangular3/roc_triang_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range1/PR_exp_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range1/it_acc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range1/it_lr_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range1/lr_acc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range1/roc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range1/roc_exp_test1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range2/PR_exp_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range2/it_acc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range2/it_lr_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range2/lr_acc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range2/roc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range2/roc_exp_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range3/PR_exp_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range3/it_acc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range3/it_lr_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range3/lr_acc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range3/roc_exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/exp_range3/roc_exp_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular1/PR_triang_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular1/it_acc_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular1/it_lr_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular1/lr_acc_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular1/roc_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular1/roc_triang_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular2/PR_triang_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular2/it_acc_triang2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular2/it_lr_triang2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular2/lr_acc_triang2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular2/roc_triang2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular2/roc_triang_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular3/PR_triang_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular3/it_acc_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular3/it_lr_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular3/lr_acc_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular3/roc_triang1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/images/skew36/triangular3/roc_triang_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/plot_tf.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/report.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/report.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/report.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/report.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/results/results.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/results/results.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/results/table1_skew17.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/results/table2_skew36.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/results/tables1_fixed_skew17.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/results/~$table1_skew17.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/results/~$table2_skew36.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/tables/sk17.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/tables/sk17mean.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/tables/sk17mean.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/tables/sk17std.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/tables/sk36.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/tables/sk36mean.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/tables/sk36std.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/template.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report and results/template.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Cyclical Learning Rate in Python/report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Ensembling for ISIC 2017 Skin Lesion Classification/Project-Presentation.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Parallel Median Element Search/main-code.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Parallel Median Element Search/report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Skin Lesion Segmentation in Open CV/AIA_report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Skin Lesion Segmentation in Open CV/method2 code/functions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Skin Lesion Segmentation in Open CV/method2 code/functions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Skin Lesion Segmentation in Open CV/method2 code/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/TRE-driven Thoracic CT Image Registration/Matlab and Elastix files/Elastix_parameters_nonrigid.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/TRE-driven Thoracic CT Image Registration/Matlab and Elastix files/Elastix_parameters_rigid.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/TRE-driven Thoracic CT Image Registration/Matlab and Elastix files/eval_TRE.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/TRE-driven Thoracic CT Image Registration/Matlab and Elastix files/read_registered.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/TRE-driven Thoracic CT Image Registration/report.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\chris\Desktop\Studium\PhD\Courses\Spring 2020\COSC 525 - Deep Learning\DeepLearning_FinalProject\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aAzyh15OgVyrOSnphRxhizqKlE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projects/master_thesis/code/DCGAN/DCGAN.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.bootstrap">
+    <configuration name="bootstrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepLearning_FinalProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/bootstrap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepLearning_FinalProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\chris\Desktop\Studium\PhD\Courses\Spring 2020\COSC 525 - Deep Learning\DeepLearning_FinalProject\get_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocess_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepLearning_FinalProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\chris\Desktop\Studium\PhD\Courses\Spring 2020\COSC 525 - Deep Learning\DeepLearning_FinalProject\Code\preprocess_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bootstrap" />
+        <item itemvalue="Python.preprocess_dataset" />
+        <item itemvalue="Python.get_image" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c67dae92-1c7a-4e8a-ab6a-c5899b03dbf1" name="Default Changelist" comment="" />
+      <created>1586193442220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586193442220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="221" width="669" height="488" key="FileChooserDialogImpl" timestamp="1586202830900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="547" y="221" width="669" height="488" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586202830900" />
+    <state width="1900" height="279" key="GridCell.Tab.0.bottom" timestamp="1586313684661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586313684661" />
+    <state width="1900" height="279" key="GridCell.Tab.0.center" timestamp="1586313684661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586313684661" />
+    <state width="1900" height="279" key="GridCell.Tab.0.left" timestamp="1586313684661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586313684661" />
+    <state width="1900" height="279" key="GridCell.Tab.0.right" timestamp="1586313684661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586313684661" />
+    <state width="937" height="347" key="GridCell.Tab.1.bottom" timestamp="1586220791968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586220791968" />
+    <state width="937" height="347" key="GridCell.Tab.1.center" timestamp="1586220791968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586220791968" />
+    <state width="937" height="347" key="GridCell.Tab.1.left" timestamp="1586220791968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586220791968" />
+    <state width="937" height="347" key="GridCell.Tab.1.right" timestamp="1586220791968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586220791968" />
+    <state x="491" y="163" key="SettingsEditor" timestamp="1586196194329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586196194329" />
+  </component>
+</project>
