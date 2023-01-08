@@ -10,7 +10,7 @@ To improve the performance of existing mammogram classifiers (e.g., ResNet and V
 The mini-MIAS database (http://peipa.essex.ac.uk/info/mias.html) provided by the Mammographic Image Analysis Society (MIAS). The dataset contains 322 gray RGB-scale images of size 1024x1024, categorized into the following three groups: 1) normal breast tissue (n=207), 2) benign, non-cancerous breast tissue (n=63), and 3) malignant, cancerous breast tissue (n=52).
 
 
-### Helpful papers and more: 
+### Papers:
 * I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, and Y. Bengio, ”Generative Adversarial Networks,” 2014 In NIPS.
 * B. Alyafi, O. Diaz, and R. Marti, ”DCGANs for realistic breast mass augmentation in x-ray mammography”, 2020 Proc. SPIE 11314, Medical Imaging 2020: Computer-Aided Diagnosis, 1131420 (16 March 2020); https://doi.org/10.1117/12.2543506.
    * https://github.com/Basel1991/Projects/tree/master/master_thesis/code
